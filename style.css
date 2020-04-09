@@ -1,0 +1,44 @@
+div {
+    border: thin solid #444444;
+    width: 30%;
+    height: 90%;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 20px;
+    background: #b5e1f7;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+h3{ 
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    font-size: 30px;
+    font-family: 'Lucida Sans';
+}
+
+input {
+    border-radius: 15%;
+    border: 2px solid #78aef0 ;
+    height: 25px;
+    width: 25px;
+    font-size: 20px;
+}
+
+button{
+    border-radius: 15%;
+    border: 2px solid #78aef0 ;
+    color: beige;
+    background-color: #3f94fc;
+    height: 30px;
+    width:40px ;
+    cursor: pointer;
+}
